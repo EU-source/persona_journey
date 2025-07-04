@@ -1,0 +1,23 @@
+PRIVACY POLICY – Persona Connect
+Effective Date: [7 July 2025]
+
+This Privacy Policy describes how Persona Connect handles information in connection with its service and TikTok Developer API integration.
+
+1. Information We Collect
+Persona Connect does not collect or store personal information from users. The tool is used internally to manage and post brand-owned content to TikTok.
+
+2. TikTok API
+Persona Connect uses TikTok’s Content Posting API to upload and publish videos to our official TikTok account. All access is handled securely via access tokens, and we do not access or store any personal user data from TikTok.
+
+3. Data Security
+We implement reasonable measures to secure API access and internal data. No sensitive or user-level data is stored by the platform.
+
+4. Third-Party Services
+We may use third-party automation tools (such as n8n) to support our workflows. These tools operate within our secure environment.
+
+5. Changes to This Policy
+We may revise this Privacy Policy from time to time. Any changes will be posted to our official website.
+
+6. Contact
+For questions about this Privacy Policy, contact us at:
+contact@unagi.ch
